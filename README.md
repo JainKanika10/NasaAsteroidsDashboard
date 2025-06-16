@@ -32,4 +32,4 @@ An interactive Streamlit web app that visualizes asteroid data from NASA, includ
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/JainKanika10/NasaAsteroidsDashboard.git
-cd nasa-asteroid-dashboard
+cd NasaAsteroidsDashboard
